@@ -55,7 +55,7 @@ There are three routes created to navigate through different views:
 * `/gender-charts`: Scores by gender
 
 ### Unit Testing
-Few Basic test cases are written for the implemented following Components
+Few Basic test cases are written for the following Components
 
 ```
 <ScoreTable />
